@@ -2,6 +2,7 @@
 
 
 I'm Gad from israel and i'm student in 2nd year of software engineering. i'am a very motivated and serious person.
+
 I know the languages C, C++, Python, Java, Html
 
 I'am studying React...
