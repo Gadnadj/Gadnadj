@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Gad%20Nadjar%20&text2=%20💻%20Software%20Engineering%20Student%20💻&width=800&height=400)](https://github.com/gadnadj/svg-banners)
+
 I'm Gad from israel and i'm student in 2nd year of software engineering. I'am a very motivated and serious person. 
 
 I know the languages C, C++, Python, Java, Html  
@@ -9,7 +11,7 @@ I'am studying React...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Gad%20Nadjar%20&text2=%20💻%20Software%20Engineering%20Student%20💻&width=800&height=400)](https://github.com/gadnadj/svg-banners)
+
 
 
 <h3 align="left">Connect with me:</h3>
