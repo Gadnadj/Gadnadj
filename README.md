@@ -6,9 +6,6 @@ I know the languages C, C++, Python, Java, Html
 
 I'am studying React... 
 
-You can check out my instagram page at https://www.instagram.com/gadnadj/ or facebook page at https://m.facebook.com/gad.nadjar  
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj)](https://github.com/anuraghazra/github-readme-stats)
 
