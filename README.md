@@ -10,6 +10,6 @@ You can check out my instagram page at https://www.instagram.com/gadnadj/ or fac
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/gadnadj/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Softare Engineering Student%20Source&width=800&height=400)](https://github.com/gadnadj/svg-banners)
 
 
