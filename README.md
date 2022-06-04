@@ -7,7 +7,7 @@ I know the languages C, C++, Python, Java, Html
 I'am studying React... 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj&theme=blueberry&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj&theme=jolly&show_icons=true)
 
 
 
