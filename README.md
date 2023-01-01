@@ -2,7 +2,7 @@
 
 I'm Gad from israel and i'm student in 3rd year of software engineering. I am a very motivated and serious person. 
 
-I know the languages C, C++, Python, Java, Html, CSS
+I know the languages C, C++, Python, Java, Html, CSS, SQL
 
 I'am studying Java Script... 
 
