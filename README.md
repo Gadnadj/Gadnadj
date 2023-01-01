@@ -2,9 +2,9 @@
 
 I'm Gad from israel and i'm student in 2nd year of software engineering. I am a very motivated and serious person. 
 
-I know the languages C, C++, Python, Java, Html  
+I know the languages C, C++, Python, Java, Html, CSS
 
-I'am studying React... 
+I'am studying Java Script... 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadnadj&theme=jolly&show_icons=true)
