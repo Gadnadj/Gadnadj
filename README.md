@@ -2,7 +2,7 @@
 
 I am Gad from Israel and I am a 4th year software engineering student. I am a very motivated and serious person. 
 
-Skills: C, C++, Python, Java, JavaScript, Html, CSS, React, SQL, node.js, mongoDB
+Skills: JavaScript, HTML, CSS, React, C, C++, Python, Java, SQL, node.js, mongoDB
 
 
 
