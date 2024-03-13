@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gad+Nadjar&width=800&height=400
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Gad+Nadjar&width=800&height=400
 )
 
 Greetings! My name is Gad, hailing from the vibrant tech scene of Israel. As I navigate through my 4th year in software engineering, my journey is a blend of innovation, learning, and creation. Dive into my digital world to discover the projects that fuel my passion and document my journey at [gad-nadjar.com](https://www.gad-nadjar.com). Driven by an unwavering dedication to technology and development, I'm on a mission to solve complex problems and make a mark in the software industry.
