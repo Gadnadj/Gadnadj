@@ -4,9 +4,6 @@
 "Greetings! My name is Gad, hailing from the vibrant tech scene of Israel. As I navigate through my 4th year in software engineering, my journey is a blend of innovation, learning, and creation. Dive into my digital world to discover the projects that fuel my passion and document my journey at gad-nadjar.com. Driven by an unwavering dedication to technology and development, I'm on a mission to solve complex problems and make a mark in the software industry."
 
 
-
-I am Gad from Israel and I am a 4th year software engineering student. I am a very motivated and serious person. 
-
 ### Skills:
 - **Languages**: JavaScript, TypeScript, Python, C, C++, Java
 - **Frameworks/Libraries**: React, Next.js, Node.js
