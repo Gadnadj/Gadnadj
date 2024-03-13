@@ -1,14 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Gad%20Nadjar%20&text2=%20💻%20Software%20Engineering%20Student%20💻&width=800&height=400)](https://github.com/gadnadj/svg-banners)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Gad%20Nadjar%20&text2=%20💻%20Software%20Engineering%20Student%20💻&width=800&height=400)](https://github.com/gadnadj/svg-banners)
 
 Hello, I am Gad from Israel, a 4th-year software engineering student. Visit my website for more about my projects and experiences: [gad-nadjar
 
 
 I am Gad from Israel and I am a 4th year software engineering student. I am a very motivated and serious person. 
 
-Skills: JavaScript, React, TypeScript, Next.js, HTML, CSS, Tailwind, Node.js, Python, C, C++, Java, Git, Linux, MongoDB, SQL
-
+### Skills:
+- **Languages**: JavaScript, TypeScript, Python, C, C++, Java
+- **Frameworks/Libraries**: React, Next.js, Node.js
+- **Technologies**: HTML, CSS, Tailwind, Git, Linux, MongoDB, SQL
 
 
 <h3 align="left">Languages and Tools:</h3>
