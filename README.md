@@ -1,7 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Gad%20Nadjar%20&text2=%20💻%20Software%20Engineering%20Student%20💻&width=800&height=400)](https://github.com/gadnadj/svg-banners)
 
 
-Hello, I am Gad from Israel, a 4th-year software engineering student. Visit my website for more about my projects and experiences: [gad-nadjar
+Hello, I am Gad from Israel, a 4th-year software engineering student. Visit my website for more about my projects and experiences: [gad-nadjar.com](https://www.gad-nadjar.com). I am highly motivated and serious about technology and software development.
+
 
 
 I am Gad from Israel and I am a 4th year software engineering student. I am a very motivated and serious person. 
