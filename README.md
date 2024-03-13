@@ -26,7 +26,7 @@ Skills: JavaScript, React, TypeScript, Next.js, HTML, CSS, Tailwind, Node.js, Py
 
 
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://curity.io/images/resources/tutorials/writing-clients/spa/next-js-oauth-agent.jpg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="nextjs" width="40" height="40"/> </a>
 
 
 
