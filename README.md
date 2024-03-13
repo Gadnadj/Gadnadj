@@ -26,7 +26,7 @@ Skills: JavaScript, React, TypeScript, Next.js, HTML, CSS, Tailwind, Node.js, Py
 
 
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> </a>
 
 
 
