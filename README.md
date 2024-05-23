@@ -5,9 +5,10 @@ Greetings! My name is Gad, hailing from the vibrant tech scene of Israel. As I n
 
 
 ### Skills:
-- **Languages**: JavaScript, TypeScript, Python, C, C++, Java
-- **Frameworks/Libraries**: React, Next.js, Node.js
-- **Technologies**: HTML, CSS, Tailwind, Git, Linux, MongoDB, SQL
+- **Front-End**: JavaScript, HTML, CSS, React, TypeScript, Next.js, Tailwind
+- **Back-End**: Node.js, Express
+- **Databases**: SQL, MongoDB
+- **Programming Languages**: Python, C, C++, Java
 
 
 <h2 align="left">Languages and Tools:</h2>
